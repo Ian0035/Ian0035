@@ -1,4 +1,4 @@
-Dit is de opdracht voor mijn POP Project van Professional skills 1. Het is een python game genaamd 'Collect the coin'.<br/>
-De code die ik heb gmaakt staat in de file 'Code collect the coin'.<br/>
-Spelregels en downloadinstructies staan in de file 'Collect the coin.docx'.<br/>
-Video met uitleg: https://youtu.be/Cnu9iOTd_Go
+Hello, and welcome to my github :)
+I invite you to look around, but just so you know, unlike other people, GitHub is a really bad representation of my work and how much I contribute.
+Instead of looking at my GitHub, I invite you to look at my portfolio instead, which is more accurate.
+Enjoy :)
