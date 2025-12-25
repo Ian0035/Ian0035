@@ -1,6 +1,6 @@
 # Hi, I’m Ian Hoogstrate 👋
 
-AI Engineer with strong full-stack development skills.  
+AI Engineer & Full-stack Engineer  
 I specialize in building data-driven and AI-powered applications — from model development to production-ready web platforms.
 
 📍 Copenhagen, Denmark  
